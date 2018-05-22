@@ -1,1 +1,1 @@
-# Week-11-Project
+Ok, so stay with me on this... I'm going to "TRY" and put together a 3D/VR environment (something I'm already familiar with) that implements much of what we've learned in this course. This is a web-based environment that is viewable on any internet browser. Viewers don't need a VR headset to see the environment and move around. Just a functioning mouse. For this, I'll be using HTML, a-frame (used within HTML), and JavaScript. "Physical" object within the environment will be (mostly) interactive, allowing for data entry, manipulation and more.
